@@ -1,2 +1,2 @@
 # Task-6
-Using MySQL Aggregation  Analysis Sales Data
+Using different types of functions or  Aggregation of SOL Analysis Sales Data in MySQL Workbench.
